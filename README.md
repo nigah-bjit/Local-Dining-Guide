@@ -1,47 +1,37 @@
 # Local-Dining-Guide
 
-Materials
+This line added by Nigah
 
-Computer Lab
-Video Cameras
-Video Editing Software
-Instruction
-Present the project concept by going through the PowerPoint, “Designing your own restaurant”
-Concept
-Cuisine
-Target Market
-Operations Concept
-Atmosphere
-Employees
-Name & logo
-Activities
+A directory of local restaurants and food recommendations.
 
-There are many parts to the project
+A directory of local restaurants and food recommendations.Auth.
 
-1.Brainstorm worksheet
-2.Real Estate worksheet
-3.CABA Application
-4.Name & Logo
-5.Food Worksheet
-6.Menu
-7.Commercial
-8.Dish off your Menu for Tasting
-Background for Teachers
+Project Concept: The LocaleDiningGuide is a comprehensive online platform that aims to connect food enthusiasts with local dining experiences, highlight unique culinary offerings, and facilitate community engagement around food. It will serve as a digital hub for discovering, sharing, and exploring the diverse culinary landscape of a specific region or locality.
 
-The entire project is created with a local community in mind. Students look at local restaurants and decide what new type of restaurant is needed. They fill out an application for the local Business Alliance. They examine real estate in their community for sale and select a location for their restaurant based upon the results. It’s a great way to link Business classes, Marketing strategies, and Financial lessons in the lesson as well. The entire project is put in a portfolio and presented to the teacher (and other volunteers like other teachers, business or math perhaps, and/or local business owners) and the other class members. They would share their goals, ideas, inspiration and more importantly their food with us. We would share in their vision, celebrate their success, and critique their efforts. The presentations can take multiple class days depending on the size of the class.
-The commercials can be made using video (acting it out) or pictures (with narration and script overlay) depending on time and resources available.
-Evaluation
+Development Technology: The LocaleDiningGuide project can be developed using a combination of technologies, including:::
 
-Final Presentation presented to panel of teachers, business owners, or community members
-Attachments
+Front-End: HTML, CSS, JavaScript React (Front-end framework) Map integration libraries (e.g., Leaflet) for location-based features Responsive design for mobile and desktop devices
 
-Designing your own Restaurant (PPT)
-Project Due Dates (Word)
-Commercial(Word)
-Name and Logo (Word)
-Restaurant Brainstorm Wkst (Word)
-Menu (Word)
-Cost Per Serving (W0rd)
-Restaurant Menu Sampling
-CABA (Pdf)
-Real Estate Worksheet (Word)
+Back-End: Node.js or Python (Server-side scripting) Express.js (Web application frameworks) MongoDB or PostgreSQL (Database management) Geocoding APIs (for mapping and location data)
+
+Basic Features:
+
+Restaurant Listings: Display a curated list of local restaurants, cafes, and eateries. Provide essential details such as location, contact information, hours of operation, and cuisine types. Allow users to filter and search based on cuisine, price range, and user ratings.
+
+User Reviews and Ratings: Enable users to leave reviews and ratings for restaurants. Display average ratings and recent reviews for each establishment.
+
+Interactive Maps: Integrate an interactive map that displays the locations of featured restaurants. Allow users to explore the map and click on markers for more information.
+
+User Profiles: Allow users to create and manage profiles. Track their reviewed restaurants and favorite spots.
+
+Community Engagement: Implement a commenting system for users to discuss their dining experiences. Enable sharing of restaurant recommendations within the community.
+
+Featured Culinary Experiences: Showcase unique dining experiences, food festivals, and special events in the area.
+
+Mobile-Friendly Design: Ensure a seamless and user-friendly experience on both desktop and mobile devices.
+
+Admin Dashboard: Provide an admin panel to manage restaurant listings, user reviews, and overall content.
+
+Search Functionality: Implement a robust search feature to quickly find restaurants based on various criteria.
+
+Newsletter Subscription: Allow users to subscribe to newsletters for updates on new restaurants and culinary events. Modified by Nigah Hossain.
